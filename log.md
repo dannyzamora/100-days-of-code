@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: February 4, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started working on my spotify searching tool
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I was able to get top 5 songs bases on lyrics, in most cases the song I was searching for was one of the five. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Song Finder](https://github.com/dannyzamora/SongFinder)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
