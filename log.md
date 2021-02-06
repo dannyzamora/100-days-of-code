@@ -8,6 +8,14 @@
 
 **Link to work:** [Song Finder](https://github.com/dannyzamora/SongFinder)
 
+### Day 2: February 5, 2021
+
+**Today's Progress**: Added spotify API
+
+**Thoughts:** I having trouble understanding how to use the spotify api 
+
+**Link to work:** [Song Finder](https://github.com/dannyzamora/SongFinder)
+
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
