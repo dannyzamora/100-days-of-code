@@ -24,14 +24,19 @@
 
 **Link to work:** [Song Finder](https://github.com/dannyzamora/SongFinder)
 
+### Day 4: February 7, 2021
 
+**Today's Progress**: I was able to finish project
 
-### Day 1: June 27, Monday
+**Thoughts:** I was really happy to complete this small project 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Link to work:** [API project](https://github.com/dannyzamora/APIs-and-Microservices)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+### Day 5: February 8, 2021
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Today's Progress**: I was able to finish project
+
+**Thoughts:** I was really happy to complete this small project 
+
+**Link to work:** [API project](https://github.com/dannyzamora/APIs-and-Microservices)
+
