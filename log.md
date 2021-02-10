@@ -40,3 +40,10 @@
 
 **Link to work:** [API project](https://github.com/dannyzamora/APIs-and-Microservices)
 
+### Day 6: February 9, 2021
+
+**Today's Progress**: I was stuck trying to configure mongoose and mongodb in a node js application
+
+**Thoughts:** Felt liek time was wasted
+
+
