@@ -46,4 +46,26 @@
 
 **Thoughts:** Felt liek time was wasted
 
+### Day 7: February 10, 2021
+
+**Today's Progress**: Alsmost finished project 
+
+**Thoughts:** URL Shortener is challenging 
+
+**Link to work:** [API project](https://github.com/dannyzamora/APIs-and-Microservices/tree/main/URL%20Shortener%20Microservice)
+
+### Day 8: February 11, 2021
+
+**Today's Progress**: Thought I would finish but won't pass test cases
+
+**Thoughts:** I never used the done/callback before, which is really neat. 
+
+**Link to work:** [API project](https://github.com/dannyzamora/APIs-and-Microservices/tree/main/URL%20Shortener%20Microservice)
+
+### Day 9: February 12, 2021
+
+**Today's Progress**: Passed all the test cases
+
+**Thoughts:** I was happy that I was able to find the errors in my url validator
+**Link to work:** [API project](https://github.com/dannyzamora/APIs-and-Microservices/tree/main/URL%20Shortener%20Microservice)
 
