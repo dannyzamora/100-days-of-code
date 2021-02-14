@@ -69,3 +69,11 @@
 **Thoughts:** I was happy that I was able to find the errors in my url validator
 **Link to work:** [API project](https://github.com/dannyzamora/APIs-and-Microservices/tree/main/URL%20Shortener%20Microservice)
 
+### Day 10: February 13, 2021
+
+**Today's Progress**: Started working on Fitness tracker app. Finished the post request to add new users. 
+
+**Thoughts:** I am excited to work on this, since I already created a similar app. 
+
+**Link to work:** [API project](https://github.com/dannyzamora/APIs-and-Microservices/tree/main/Exercise%20Tracker)
+
